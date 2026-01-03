@@ -1,3 +1,7 @@
+https://github.com/swecha3108/cicd-github-actions-k8s/actions/workflows/ci.yml/badge.svg
+
+
+
 \# CI/CD Demo - GitHub Actions + Docker + Kubernetes
 
 
